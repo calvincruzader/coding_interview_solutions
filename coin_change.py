@@ -4,7 +4,7 @@ data_file = open('./data/coin_change_data.txt', 'r')
 
 def get_ways(n, c):
 
-    # bottoms up approach 
+    # bottoms up approach
 
     for coin in c:
 
