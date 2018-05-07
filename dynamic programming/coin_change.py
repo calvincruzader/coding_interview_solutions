@@ -1,4 +1,4 @@
-data_file = open('./data/coin_change_data.txt', 'r')
+data_file = open('./../data/coin_change_data.txt', 'r')
 
 
 def get_ways(n, c):
